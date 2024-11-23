@@ -8,20 +8,20 @@ Se espera mejorar el ROI de la próxima campaña mediante un modelo predictivo q
 
 **Fuente:** [iFood](https://github.com/ifood/ifood-data-analyst-case)
 
-## Objetivo 🎯
+## <br> Objetivo 🎯
 El objetivo es analizar los datos históricos de las últimas 5 campañas de marketing, junto con el comportamiento de los clientes y su perfil, para:
 
 * Identificar características clave de los clientes que aceptan la oferta.
 * Optimizar las futuras campañas para mejorar la tasa de conversión y reducir los costos.
 * Maximizar los ingresos y lograr una campaña rentable.
 
-## Tecnologías ⚙️
+## <br> Tecnologías ⚙️
 Este proyecto se ha desarrollado utilizando Python en un entorno de Jupyter Notebook.
 * **Bibliotecas:** Pandas, NumPy, Scikit-learn
 * **Herramientas de visualización:** Matplotlib, Seaborn
 * **Exploración de Datos:** funpymodeling
 
-## ¿Cómo usar el programa? 💻
+### ¿Cómo usar el programa? 💻
 0. Instala las librerías de funpymodeling y ProfileReport de Python.
 ```
 # Instalar funpymodeling
@@ -73,7 +73,7 @@ Para el Perfil del Cliente se compararon dos grupos principales:
 ### 4. Conclusiones 🚀
 - Con base en los resultados del análisis y el modelo predictivo, se formularon conclusiones y recomendaciones para optimizar las futuras campañas de marketing directo. Estas incluyen mejorar la segmentación, enfocar el presupuesto en clientes con mayor probabilidad de conversión, y reducir la pérdida económica de la campaña.
 
-Todo la documentación del caso se encuentra en [Versión en Español](https://github.com/mabustillo14/marketing_segmentation/blob/main/iFood%20Business%20Case%20Study%20-Spanish.pdf)
+Todo la documentación y análisis de negocios del caso se encuentra en [Versión en Español](https://github.com/mabustillo14/marketing_segmentation/blob/main/iFood%20Business%20Case%20Study%20-Spanish.pdf)
  
 # <br> Contacto 🌟
 Ante consultas, me puedes consultar por mi perfil de [Linkedin](https://www.linkedin.com/in/mario-bustillo/).
