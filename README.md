@@ -1,4 +1,4 @@
-# iFood Business Case Study
+# Segmentación de Clientes para optimización de Campañas de Marketing
 
 Una empresa de alimentos desea obtener el mayor beneficio posible para la próxima campaña de marketing directo, programada para el próximo mes.
 
