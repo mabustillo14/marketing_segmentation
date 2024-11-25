@@ -6,6 +6,8 @@ El objetivo del proyecto es desarrollar un modelo que prediga el comportamiento 
 
 Se espera mejorar el ROI de la próxima campaña mediante un modelo predictivo que permita identificar clientes propensos a aceptar una oferta.
 
+De antemano se conoce información relevante y los [requerimientos](https://github.com/ifood/ifood-data-business-analyst-test/blob/master/iFood%20Data%20Analyst%20Case.pdf) brindados por la compañía.
+
 **Fuente:** [iFood](https://github.com/ifood/ifood-data-analyst-case)
 
 ## <br> Objetivo 🎯
